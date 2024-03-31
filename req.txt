@@ -1,0 +1,4 @@
+django==5.0.2
+django-filter==23.5
+django-jazzmin==2.6.1
+django-admin-inline-paginator==0.4.0
